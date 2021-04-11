@@ -1,7 +1,7 @@
 # Hiya! 
 
 I exhausted myself trying to navigate data-retrieval to make a (seemingly) simple map, 
-and after ALL that *gestures around* I didn't want anyone else to have to go through it. My hope is that at least this gives you a headstart!
+and after ALL that * *gestures around* * I didn't want anyone else to have to go through it. My hope is that at least this gives you a headstart!
 If you want to collaborate or add to this dataset, please let me know!
 
 # GIS info
